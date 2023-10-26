@@ -1,2 +1,2 @@
 # project_agenda
-My first project
+Projeto desenvolvido para estudar o framework Django 
