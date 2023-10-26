@@ -115,12 +115,12 @@ Cole os dados.
 cd ~/agendaapp
 python3.11 -m venv venv
 . venv/bin/activate
-pip install --upgrade pip
-pip install django
-pip install pillow
-pip install gunicorn
-pip install psycopg
-pip install faker
+pip install --upgrade pip;
+pip install django;
+pip install pillow;
+pip install gunicorn;
+pip install psycopg;
+pip install faker;
 
 python manage.py runserver
 python manage.py migrate
