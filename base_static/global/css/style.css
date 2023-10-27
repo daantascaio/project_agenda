@@ -46,6 +46,7 @@ body {
   color: var(--clr-black);
   -webkit-font-smoothing: antialiased;
   background: var(--clr-light-gray);
+  background-color: rgb(31, 29, 29);
 }
 
 img,
