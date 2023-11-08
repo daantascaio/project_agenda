@@ -1,6 +1,6 @@
 # Project Agenda
 
-Este é o meu primeiro projeto utilizando o framework Django. O objetivo principal deste projeto é estudar e aprender mais sobre o Django e suas funcionalidades. O projeto foi desenvolvido utilizando Docker, o que facilita a configuração e o deploy.
+Este é o meu primeiro projeto utilizando o framework Django. O objetivo principal deste projeto é estudar e aprender mais sobre o Django e suas funcionalidades.
 
 ## Tecnologias e Ferramentas
 
